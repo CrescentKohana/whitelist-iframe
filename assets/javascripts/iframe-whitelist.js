@@ -4,5 +4,6 @@
   Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/graphics8\.nytimes\.com\/.+/i);
   Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/www\.youtube\.com\/embed\/.+/i);
   Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/embed\.spotify\.com\/.+/i);
+  Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/www\.discordapp\.com\/.+/i);
 })();
 
